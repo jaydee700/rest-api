@@ -1,2 +1,2 @@
 # rest-api
-A project for exploring REST-API
+A project for exploring REST-API.
